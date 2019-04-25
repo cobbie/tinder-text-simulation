@@ -1,0 +1,5 @@
+/Users/cobbiequintos/Desktop/C#/Project1Quintos161613Solution/Project1Quintos161613/obj/x86/Debug/Project1Quintos161613.csproj.CoreCompileInputs.cache
+/Users/cobbiequintos/Desktop/C#/Project1Quintos161613Solution/Project1Quintos161613/bin/Debug/Project1Quintos161613.exe
+/Users/cobbiequintos/Desktop/C#/Project1Quintos161613Solution/Project1Quintos161613/bin/Debug/Project1Quintos161613.pdb
+/Users/cobbiequintos/Desktop/C#/Project1Quintos161613Solution/Project1Quintos161613/obj/x86/Debug/Project1Quintos161613.exe
+/Users/cobbiequintos/Desktop/C#/Project1Quintos161613Solution/Project1Quintos161613/obj/x86/Debug/Project1Quintos161613.pdb
